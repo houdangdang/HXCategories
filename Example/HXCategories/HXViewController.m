@@ -7,6 +7,7 @@
 //
 
 #import "HXViewController.h"
+#import <HXCategories/HXCategories.h>
 
 @interface HXViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+//    self.view.backgroundColor = [UIColor redColor];
+    [self hx_setViewBackgroundColor];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

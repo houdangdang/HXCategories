@@ -1,18 +1,18 @@
 {
   "name": "HXCategories",
   "version": "0.1.0",
-  "summary": "A short description of HXCategories.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/houdangdang@gmail.com/HXCategories",
+  "summary": "Objective C of HXCategories.",
+  "description": "常用的组件类别扩展Objective C of HXCategories.",
+  "homepage": "https://github.com/houdangdang/HXCategories",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "houdangdang@gmail.com": "houdangdang@huaxiafinance.com"
+    "HouYeLin": "houdangdang@gmail.com"
   },
   "source": {
-    "git": "https://github.com/houdangdang@gmail.com/HXCategories.git",
+    "git": "https://github.com/houdangdang/HXCategories.git",
     "tag": "0.1.0"
   },
   "platforms": {
