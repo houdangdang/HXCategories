@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 常用的组件类别扩展Objective C of HXCategories.
                        DESC
 
-  s.homepage         = 'https://github.com/houdangdang@gmail.com/HXCategories'
+  s.homepage         = 'https://github.com/houdangdang/HXCategories'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'HouYeLin' => 'houdangdang@gmail.com' }
-  s.source           = { :git => 'https://github.com/houdangdang@gmail.com/HXCategories.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/houdangdang/HXCategories.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
