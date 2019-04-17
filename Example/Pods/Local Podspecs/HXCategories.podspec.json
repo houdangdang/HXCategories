@@ -1,0 +1,22 @@
+{
+  "name": "HXCategories",
+  "version": "0.1.0",
+  "summary": "A short description of HXCategories.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/houdangdang@gmail.com/HXCategories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houdangdang@gmail.com": "houdangdang@huaxiafinance.com"
+  },
+  "source": {
+    "git": "https://github.com/houdangdang@gmail.com/HXCategories.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HXCategories/Classes/**/*"
+}
