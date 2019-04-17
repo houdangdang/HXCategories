@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'HXCategories_Example' do
+  pod 'HXCategories', :path => '../'
+
+  target 'HXCategories_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
